@@ -27,6 +27,7 @@ CS661 Python Programming  Midterm Project
 
 
 #### 7. **Age Distribution by Injury Type**
+
 #### 8. **Gender Analysis by Hostilities Participation**  
 
 ## **Understanding The Dataset**
